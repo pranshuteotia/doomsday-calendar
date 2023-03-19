@@ -1,0 +1,21 @@
+body {
+  background: #333;
+  color: #fff;
+}
+
+#date {
+  font-weight: bold;
+}
+
+#result {
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.correct {
+   color: green; 
+}
+
+.incorrect {
+  color: red;
+}
